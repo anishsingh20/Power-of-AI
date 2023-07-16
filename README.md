@@ -1,5 +1,5 @@
 # Power-of-AI
-This repository contains useful tools to maximise your day to day productivity using AI and latest tools available in the market
+This repository contains valuable tools to maximize your day-to-day productivity using AI and the latest tools available in the market.
 
 
 ### Tools
@@ -9,3 +9,5 @@ This repository contains useful tools to maximise your day to day productivity u
 2. [Rose.ai](https://rose.ai/dashboard) - Visualize anything using your code or the power of AI
 
 3. [Rows](https://rows.com/?notry=1) - Excel but with lots of intelligence and use of LLMs.
+
+4. [Jasper-AI](https://www.jasper.ai/product-sign-up) - Great for writers, and it has a Plagiarism checker and other valuable tools like essential art generation for your blogs.
