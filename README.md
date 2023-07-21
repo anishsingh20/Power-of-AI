@@ -1,5 +1,6 @@
 # Power-of-AI
-This repository contains valuable tools to maximize your day-to-day productivity using AI and the latest tools available in the market.
+
+This repository contains valuable tools to maximize your day-to-day productivity using AI and the latest tools available in the market.(**WORK IN PROGRESS - Adding tools and resources as I find and use them)**
 
 
 ### Tools
