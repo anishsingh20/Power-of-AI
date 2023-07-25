@@ -23,4 +23,6 @@ This repository contains valuable tools to maximize your day-to-day productivity
 
 8. [GenAI](https://genai.works/) - An AI marketplace where developers publish various latest AI tools for each domain to make our lives easier.
 
-9. [InfraCopilot](https://infracopilot.io/teams) - Create IaaC(infra as a code) from your prompts and backed by LLM. 
+9. [InfraCopilot](https://infracopilot.io/teams) - Create IaaC(infra as a code) from your prompts and backed by LLM.
+
+10. [ChatLize.ai](https://chatlize.ai/) - Chat with your data via AI, get R and Python code for the corresponding prompts and much more
