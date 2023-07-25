@@ -21,4 +21,6 @@ This repository contains valuable tools to maximize your day-to-day productivity
 
 7. [BlackBox AI](https://www.useblackbox.io/)  - AI that writes code for you.
 
-8. [GenAI](https://genai.works/) - An AI marketplace where developers publish various latest AI tools for each domain to make our lives easier. 
+8. [GenAI](https://genai.works/) - An AI marketplace where developers publish various latest AI tools for each domain to make our lives easier.
+
+9. [InfraCopilot](https://infracopilot.io/teams) - Create IaaC(infra as a code) from your prompts and backed by LLM. 
