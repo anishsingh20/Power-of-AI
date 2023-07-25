@@ -27,7 +27,7 @@ This repository contains valuable tools to maximize your day-to-day productivity
 
 10. [ChatLize.ai](https://chatlize.ai/) - Chat with your data via AI, get R and Python code for the corresponding prompts and much more
 
-11. [Mona-openai](https://monalabs.wistia.com/medias/l6xmdj3cd6?wvideo=l6xmdj3cd6) - Mona-openai is a new Python package by mona that enables capturing logs to monitor your OpenAI API usage 🚀. That includes cool features such as:
+11. [Mona-openai](https://monalabs.wistia.com/medias/l6xmdj3cd6?wvideo=l6xmdj3cd6) - [Mona-openai](https://dashboard.monalabs.io/getting-started/) is a new Python package by mona that enables capturing logs to monitor your OpenAI API usage 🚀. That includes cool features such as:
 ✅ Hallucination alerts
 ✅ Tokens usage
 ✅ Behavioral drifts and anomalies
