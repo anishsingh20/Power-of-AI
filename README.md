@@ -32,3 +32,7 @@ This repository contains valuable tools to maximize your day-to-day productivity
 ✅ Tokens usage
 ✅ Behavioral drifts and anomalies
 ✅ LangChain support
+
+
+
+12. [AI Prompt Genious](https://docs.aipromptgenius.app/tutorial/01-create-edit-and-use-prompts/) - How to create the best prompts for LLM models and ChatGPT, this chrome extension has lots of pre-build templates for various types of prompts and you can create and share your own prompts. 
