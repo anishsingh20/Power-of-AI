@@ -38,4 +38,7 @@ This repository contains valuable tools to maximize your day-to-day productivity
 12. [AI Prompt Genious](https://docs.aipromptgenius.app/tutorial/01-create-edit-and-use-prompts/) - How to create the best prompts for LLM models and ChatGPT, this Chrome extension has lots of pre-build templates for various types of prompts and you can create and share your own prompts.
 
 
-13. [Galileo LLM studio](https://www.rungalileo.io/llm-studio/) - Algorithm-powered LLMOps Platform. Find the best prompt, inspect data errors while fine-tuning, and monitor LLM outputs in real-time—all in one powerful, collaborative platform.
+13. [Galileo LLM studio](https://www.rungalileo.io/llm-studio/) - Algorithm-powered LLMOps Platform. Find the best prompt, inspect data errors while fine-tuning, and monitor LLM outputs in real time—all in one powerful, collaborative platform.
+
+
+14. [Hal9](https://www.hal9.com/) - Chat with your data, get insights in seconds. Answer data questions with conversational AI that leverages your company's cloud data.
