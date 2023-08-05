@@ -4,6 +4,8 @@ This repository contains valuable tools to maximize your day-to-day productivity
 
 ### "AI is not going to take away jobs. Still, it will replace incompetent professionals with competent professionals who know how to use the AI tools effectively to increase productivity, innovate and make lives easier for them and people around them." 
 
+### Best Resource out there on prompting and AI resources : https://learnprompting.org/docs/products 
+
 
 ### Tools
 
