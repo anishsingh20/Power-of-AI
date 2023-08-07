@@ -44,3 +44,5 @@ This repository contains valuable tools to maximize your day-to-day productivity
 
 
 14. [Hal9](https://www.hal9.com/) - Chat with your data, get insights in seconds. Answer data questions with conversational AI that leverages your company's cloud data.
+
+15. [GPT for Docs](https://workspace.google.com/marketplace/app/gpt_for_docs_sheets_slides/451400884190?pann=ogb) - A free integration of ChatGPT™ and Bard™ into Google Workspace™. The full power of AI for data extraction, outlines, categorization, translation etc. 
